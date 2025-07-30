@@ -50,10 +50,10 @@
 
         layer_2 {
             bindings = <
-&none  &none  &none  &none  &none  &none    &none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none    &none  &none  &none  &none  &none  &none
-&none  &none  &none  &none  &none  &none    &none  &none  &none  &none  &none  &none
-                     &none  &none  &none    &none  &none  &none
+&trans  &trans  &trans  &trans  &trans  &trans    &none  &none            &none      &none          &none              &none
+&trans  &trans  &trans  &trans  &trans  &trans    &none  &kp RIGHT_SHIFT  &kp RCTRL  &kp RIGHT_ALT  &kp RIGHT_COMMAND  &none
+&trans  &trans  &trans  &trans  &trans  &trans    &none  &none            &none      &none          &none              &none
+                        &trans  &trans  &trans    &none  &none            &none
             >;
         };
 
