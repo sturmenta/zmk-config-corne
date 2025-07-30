@@ -1,6 +1,6 @@
 # zmk-config-corne
 
-Config for 5 column - 36 keys corne keyboard from [typereactive](https://typeractive.xyz/pages/build/corne-5col_choc) **_without_** home row mods
+Config for 5 column - 36 keys corne keyboard from [typereactive](https://typeractive.xyz/pages/build/corne-5col_choc) **_without_** home row **_hold_** mods
 
 <img width="931" height="391" alt="Screenshot 2025-07-29 at 10 46 37 PM" src="https://github.com/user-attachments/assets/356b2d92-14ea-4060-b59c-546690d5c66b" />
 
