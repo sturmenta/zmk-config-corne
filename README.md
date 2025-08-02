@@ -8,7 +8,7 @@ Config for 5 column - 36 keys corne keyboard from [typereactive](https://typerac
 
 [keyboard-layout](https://www.keyboard-layout-editor.com/#/gists/d00ca7da92e40d45ca4ae67fdd24d10c)
 
-<img width="738" height="224" alt="Screenshot 2025-07-29 at 10 12 54 PM" src="https://github.com/user-attachments/assets/26da7350-4001-4534-8e58-61cae4c99a62" />
+<img width="739" height="228" alt="Screenshot 2025-08-01 at 11 00 14 PM" src="https://github.com/user-attachments/assets/de299826-2261-4a16-b3bd-45a0ab7c66c8" />
 
 ---
 
